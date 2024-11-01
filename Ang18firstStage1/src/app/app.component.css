@@ -6,9 +6,9 @@
 }
 .mainDiv{
   margin-top: -20px;
-  background-color: #ecf8fc;
-  background: rgb(9, 227, 20);
-  background: linear-gradient(0deg, rgb(76, 243, 10) 1%, rgb(133, 186, 118) 100%);
+  background-color: #e8edee;
+  background: rgb(242, 246, 246);
+  background: linear-gradient(0deg, rgb(10, 231, 243) 1%, rgb(133, 186, 118) 100%);
   min-height: 100%;
 
 }

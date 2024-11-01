@@ -5,6 +5,10 @@
 h2{
   text-align:center;
   padding-top:50px;
+  padding-bottom: 20px;
+}
+h3{
+  padding-bottom: 20px;
 }
 
 .inputDiv {
@@ -50,22 +54,3 @@ input[type="file"]:hover {
   top:0;
 }
 
-/* home.component.css */
-:host {
-  display: block;
-  /* background-image: url('home1.jpeg'); path is wrong how to fixed this */
-  background-image: url('pubic/src/app/Components/navBars/home/home1.jpg'); /* path is wrong how to fixed this */
-
-  /* D:\2024_Programmings\DomainAngular18FontendAndBackendProjects\Ang18firstStage1\src\app\Components\navBars\home\home.component.css */
-  background-attachment: fixed;  /* Make the background image fixed */
-  background-repeat: no-repeat; /* Prevent the image from repeating */
-  background-position: center;  /* Center the background image */
-  height: 100vh;                /* Optional: Make it full height */
-  width: 100%;
-
-  background-size: cover;      /* Scale the background to cover the entire component */
-  background-repeat: no-repeat; /* Prevent the image from repeating */
-  background-position: center;  /* Center the background image */
-  height: 100vh;                /* Optional: Make it full height */
-  width: 100%;
-}
